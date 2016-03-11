@@ -4,8 +4,17 @@
 |<ul><li>long strings in tables could be problematic       centered</li><li>long strings in tables could be problematic      | centered</li></ul>     |   $12 |
 | zebra stsdfsdripes | are neat      |    $1 |
 
-|Term|Definition|
-|--|--|
-|**LINK**|A decision to enter a contract may not be binding until one of the parties exits|
-|**Bacs**|A decision to enter a contract may not be binding until one of the parties exits|
-|**FPS**|A decision to enter a contract may not be binding until one of the parties exits|
+# What is the issue?
+
+* Introducotin
+* Other
+
+## Sub-section
+
+One does need to consider other outcomes.
+
+<table>
+  <tr><td>34</td><td>34</td></tr>
+  <tr><td>34</td><td>34</td></tr>
+</table>
+
